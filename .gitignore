@@ -13,6 +13,6 @@ npm-debug.log
 yarn-error.log
 /app/Console/Commands
 /app/Repositories
-database/migrations
+/database/migrations
 
 
